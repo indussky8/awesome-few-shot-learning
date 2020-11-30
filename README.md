@@ -1,23 +1,21 @@
-# awesome-few-shot-learning
-A review for latest few-shot learning works
-# Zero-Shot Learning
+# Few-Shot Learning
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.  
+A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to few-shot learning.  
 
 ## Contributing
 
-Contributions are welcome. Please see the [issue](https://github.com/chichilicious/awesome-zero-shot-learning/issues/2) which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.
+Contributions are welcome. If you have suggestions for new sections or related works to be included, please feel free to raise an issue and discuss in [issue](https://github.com/indussky8/awesome-few-shot-learning/issues) module.
 
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
-+ [Starter code for ZSL](#Starter-Code)
++ [Starter code for FSL](#Starter-Code)
 + [Other Resources](#Other-resources)
 
 
-## Zero-Shot Object Classification
+## Few-Shot Object Classification
 
 ### Papers
 
