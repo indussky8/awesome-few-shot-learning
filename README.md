@@ -24,7 +24,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/MABAS.png" width="500"/>
   
- + **BD-CSPN**: Jinlu Liu, Liang Song, and Yongqiang Qin. "Prototype Rectification for Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460715.pdf).<a target="_blank"><font color='blue'>Meta-Dataset</font></a><a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a>
+ + **BD-CSPN**: Jinlu Liu, Liang Song, and Yongqiang Qin. "Prototype Rectification for Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460715.pdf).<a target="_blank"><font color='blue'>Meta-Dataset</font></a><a target="_blank"><font color='blue'>Tsinghua University</font></a>
   <img src="readme/BD-CSPN.png" width="500"/>
 
 #### ICLR 2020
