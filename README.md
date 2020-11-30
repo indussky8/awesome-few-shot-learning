@@ -6,7 +6,7 @@ A curated list of resources including papers, comparitive results on standard da
 
 ## Contributing
 
-Contributions are welcome. If you have suggestions for new sections or related works to be included, please feel free to raise an issue and discuss in [issue](https://github.com/indussky8/awesome-few-shot-learning/issues) module.
+Contributions are welcome. If you have suggestions for new sections or valuable works to be included, please feel free to raise an issue and discuss in [issue](https://github.com/indussky8/awesome-few-shot-learning/issues) module.
 
 ## Table of Contents
 + [Papers](#Papers)
@@ -23,7 +23,8 @@ Contributions are welcome. If you have suggestions for new sections or related w
 + **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2003.07833.pdf) [[code]](https://github.com/akshitac8/tfvaegan).
 + **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 
 + Xingyu Chen, Xuguang Lan, Fuchun Sun, and Nanning Zheng. "A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2008.04872.pdf).
-+ "Region Graph Embedding Network for Zero-Shot Learning. " ECCV SPOTLIGHT(2020). [[pdf]](). 
+
++ **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf).
 
 #### ICLR 2020
 + Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
