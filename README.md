@@ -23,10 +23,6 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/jaekyeom/MABAS).
 
   <img src="readme/MABAS.png" width="500"/>
-  
- + **Neg-Cosine**: Bin Liu, Yue Cao, Yutong Lin, Qi Li, Zheng Zhang, Mingsheng Long, and Han Hu. "Negative Margin Matters: Understanding Margin in Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490426.pdf) [[code]](https://github.com/bl0/negative-margin.few-shot.).
-
-  <img src="readme/Neg-Cosine.png" width="500"/>
  
 + **centroid alignment**: Arman Afrasiyabi, Jean-François Lalonde, and Christian Gagné. "Associative Alignment for Few-shot Image Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500018.pdf) [[code]](https://lvsn.github.io/associative-alignment/).
 
@@ -84,31 +80,26 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/DeepCaps-FSL.png" width="500"/>
   
++ **Neg-Cosine**: Bin Liu, Yue Cao, Yutong Lin, Qi Li, Zheng Zhang, Mingsheng Long, and Han Hu. "Negative Margin Matters: Understanding Margin in Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490426.pdf) [[code]](https://github.com/bl0/negative-margin.few-shot.).
+
+  <img src="readme/Neg-Cosine.png" width="500"/>
+  
 
 #### ICLR 2020
-+ Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
+
 
 
 
 
 ### Datasets
-+ **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
-+ **CUB:** Caltech-UCSD Birds. Categories:200. [[link]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
-+ **AWA2:** Animals with Attributes. Categories:50. [[link]](https://cvml.ist.ac.at/AwA2/)
-+ **aPY:** attributes Pascal and Yahoo. Categories:32 [[link]](http://vision.cs.uiuc.edu/attributes/)
-+ **Flowers Dataset:** There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
-+ **SUN:** Scene Attributes. Categories:717. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
+
 
 ### Starter Code
-This repository contains a `Demo` folder which has a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).
-This can be used as an introductory code to obtain the basic understanding of Zero-shot Learning.
+
 
 
 ## Other resources
-+ https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332
-+ https://www.analyticsindiamag.com/what-is-zero-shot-learning/
-+ https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
-+ https://amitness.com/2020/05/zero-shot-text-classification/
+
 
 ## License
 
