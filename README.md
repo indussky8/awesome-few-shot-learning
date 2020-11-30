@@ -21,11 +21,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 #### ECCV 2020 
 + **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2003.07833.pdf) [[code]](https://github.com/akshitac8/tfvaegan).
-+ **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 
-+ Xingyu Chen, Xuguang Lan, Fuchun Sun, and Nanning Zheng. "A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2008.04872.pdf).
 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf).
-
+  <img src="readme/MABAS.png" width="500"/>
+  
+ + **MABAS**: Jinlu Liu, Liang Song, and Yongqiang Qin. "Prototype Rectification for Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf).
   <img src="readme/MABAS.png" width="500"/>
 
 #### ICLR 2020
