@@ -40,7 +40,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/TAFSSL.png" width="500"/>
   
-+ **SSL-FSL**: Jong-Chyi Su, Subhransu Maji, and Bharath Hariharan. "When Does Self-supervision Improve Few-shot Learning?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520630.pdf).
++ **SSL-FSL**: Jong-Chyi Su, Subhransu Maji, and Bharath Hariharan. "When Does Self-supervision Improve Few-shot Learning?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520630.pdf). <b><font color="#FF3030">`<self-supervised>`
 
   <img src="readme/SSL-FSL.png" width="500"/>
   
@@ -56,7 +56,13 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/SUR.png" width="500"/>
 
++ **LR-distill**: Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, and Phillip Isola. "Rethinking Few-shot Image Classification: A Good Embedding is All You Need?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590256.pdf) [[code]](https://github.com/WangYueFt/rfs/). <b><font color="#FF3030">`<self-supervised>` <b><font color="#FF3030">`<Meta-Dataset>`
 
+  <img src="readme/LR-distill.png" width="500"/>
+  
++ **E<sup>3</sup>BM**: Yaoyao Liu, Bernt Schiele, and Qianru Sun. "An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf) [[code]](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm). <b><font color="#FF3030">`<transductive and inductive>`
+
+  <img src="readme/E3BM.png" width="500"/>
 
 #### ICLR 2020
 + Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
