@@ -21,6 +21,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 #### ECCV 2020 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/jaekyeom/MABAS).
+
   <img src="readme/MABAS.png" width="500"/>
   
  + **BD-CSPN**: Jinlu Liu, Liang Song, and Yongqiang Qin. "Prototype Rectification for Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460715.pdf).<a target="_blank"><font color='blue'>Meta-Dataset</font></a>
