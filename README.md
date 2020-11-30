@@ -68,6 +68,21 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/Data Design.png" width="500"/>
   
++ **SEN**: Van Nhan Nguyen, Sigurd Løkse, Kristoffer Wickstrøm, Michael Kampffmeyer, Davide Roverso, and Robert Jenssen. "SEN: A Novel Feature Normalization Dissimilarity Measure for Prototypical Few-Shot Learning Networks." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680120.pdf). 
+
+  <img src="readme/SEN.png" width="500"/>
+  
++ **EPNet**: Pau Rodríguez, Issam Laradji, Alexandre Drouin, and Alexandre Lacoste. "Embedding Propagation: Smoother Manifold for Few-Shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710120.pdf) [[code]](https://github.com/ElementAI/embedding-propagation). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
+
+  <img src="readme/EPNet.png" width="500"/>
+  
++ **BSCD-FSL**: Yunhui Guo, Noel C. Codella, Leonid Karlinsky, and James V. Codella, John R. Smith, Kate Saenko, Tajana Rosing, Rogerio Feris. "A Broader Study of Cross-Domain Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720120.pdf) [[code]](https://github.com/IBM/cdfsl-benchmark). <b><font color="#FF3030">`<transductive and inductive>`
+
+  <img src="readme/BSCD-FSL.png" width="500"/>
+  
++ **DeepCaps-FSL**: Fangyu Wu, Jeremy S.Smith, Wenjin Lu, Chaoyi Pang, and Bailing Zhang. "Attentive Prototype Few-shot Learning with Capsule Network-based Embedding." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730239.pdf). <b><font color="#FF3030">`<transductive>`
+
+  <img src="readme/DeepCaps-FSL.png" width="500"/>
   
 
 #### ICLR 2020
