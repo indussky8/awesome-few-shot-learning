@@ -38,7 +38,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
    
  + **TAFSSL**: Moshe Lichtenstein, Prasanna Sattigeri, Rogerio Feris, Raja Giryes, and Leonid Karlinsky. "TAFSSL: Task-Adaptive Feature Sub-Space Learning for few-shot classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520511.pdf). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
 
-  <img src="readme/MABAS.png" width="500"/>
+  <img src="readme/TAFSSL.png" width="500"/>
+  
+ + **SSL-FSL**: Jong-Chyi Su, Subhransu Maji, and Bharath Hariharan. "When Does Self-supervision Improve Few-shot Learning?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520630.pdf).
+
+  <img src="readme/SSL-FSL.png" width="500"/>
 
 
 
