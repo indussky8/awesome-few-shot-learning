@@ -32,9 +32,6 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/Neg-Cosine.png" width="500"/>
   
- + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/bl0/negative-margin.few-shot).
-
-  <img src="readme/Neg-Cosine.png" width="500"/>
 
 #### ICLR 2020
 + Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
