@@ -63,6 +63,12 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 + **E<sup>3</sup>BM**: Yaoyao Liu, Bernt Schiele, and Qianru Sun. "An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf) [[code]](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm). <b><font color="#FF3030">`<transductive and inductive>`
 
   <img src="readme/E3BM.png" width="500"/>
+  
++ **Data Design**: Othman Sbai, Camille Couprie, and Mathieu Aubry. "Impact of base dataset design on few-shot image classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610579.pdf) [[code]](http://imagine.enpc.fr/~sbaio/publications/fewshot_dataset_design/index.html). <b><font color="#FF3030">`<base training set selection>`
+
+  <img src="readme/Data Design.png" width="500"/>
+  
+  
 
 #### ICLR 2020
 + Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
