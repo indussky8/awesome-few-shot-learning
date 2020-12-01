@@ -96,17 +96,35 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
 + **Meta-Dataset**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, and Hugo Larochelle. "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=rkgAGAVKPr) [[code]](https://github.com/google-research/meta-dataset/tree/master/meta_dataset/dataset_conversion/splits).
 
++ **SIB**: Shell Xu Hu, Pablo Garcia Moreno, Yang Xiao, Xi Shen, Guillaume Obozinski, Neil Lawrence, and Andreas Damianou. "Empirical Bayes Transductive Meta-Learning with Synthetic Gradients." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hkg-xgrYvH) [[code]](https://github.com/amzn/xfer). <b><font color="#FF3030">`<transductive>`
 
+  <img src="readme/SIB.png" width="500"/>
+  
+  
+#### CVPR 2020
 
+#### AAAI 2020
+
+  
+  
 ### Datasets
-
++ **miniImageNet:** [[link]](https://drive.google.com/file/d/1fJAK5WZTjerW7EWHHQAR9pRJVNg1T1Y7/view)
++ **tieredImageNet:** [[link]](https://github.com/kingfou/tieredImageNet)
++ **CUB:** [[link]](https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view)
++ **Meta-Dataset:** [[link]](https://github.com/google-research/meta-dataset)
++ **CIFAR-FS:** [[link]](https://drive.google.com/file/d/1GjGMI0q3bgcpcB_CjI40fX54WgLPuTpS/view)
++ **FC100:** [[link]](https://drive.google.com/file/d/1_ZsLyqI487NRDQhwvI7rg86FK3YAZvz1/view)
+#There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
 
 ### Starter Code
-
-
+There are several backbones: 
++ **Conv4:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/master/archs/Conv4_CL.py
++ **Resnet10:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/a84094a0f6027d23be167295f59b5591b3eaef82/cl_fsl/io_utils.py)
++ **Resnet18:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/a84094a0f6027d23be167295f59b5591b3eaef82/cl_fsl/io_utils.py)
++ **WRN:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/master/archs/wide_resnet.py)
 
 ## Other resources
-
+Please click [[here]](https://few-shot.yyliu.net/miniimagenet.html) for few-shot classification leaderboard.
 
 ## License
 
