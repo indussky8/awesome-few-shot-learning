@@ -86,8 +86,15 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
 
 #### ICLR 2020
++ **ProtoNet-EST**: Tianshi Cao, Marc T Law, and Sanja Fidler. "A Theoretical Analysis of the Number of Shots in Few-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/attachment?id=HkgB2TNYPS&name=original_pdf).
 
++ **Transductive ﬁne-tuning**: Guneet Singh Dhillon, Pratik Chaudhari, Avinash Ravichandran, and Stefano Soatto. "A Baseline for Few-Shot Image Classification." ICLR (2020). [[pdf]](https://openreview.net/attachment?id=rylXBkrYDS&name=original_pdf). <b><font color="#FF3030">`<transductive>`
 
++ **LFT-FSL**: Hung-Yu Tseng, Hsin-Ying Lee, Jia-Bin Huang, and Ming-Hsuan Yang. "Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=SJl5Np4tPr) [[code]](https://github.com/hytseng0509/CrossDomainFewShot).
+
+  <img src="readme/LFT.png" width="500"/>
+  
++ **Meta-Dataset**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, and Hugo Larochelle. "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=rkgAGAVKPr) [[code]](https://github.com/google-research/meta-dataset/tree/master/meta_dataset/dataset_conversion/splits).
 
 
 
