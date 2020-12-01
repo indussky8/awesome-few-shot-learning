@@ -118,7 +118,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 ### Starter Code
 There are several backbones: 
-+ **Conv4:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/master/archs/Conv4_CL.py
++ **Conv4:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/master/archs/Conv4_CL.py)
 + **Resnet10:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/a84094a0f6027d23be167295f59b5591b3eaef82/cl_fsl/io_utils.py)
 + **Resnet18:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/a84094a0f6027d23be167295f59b5591b3eaef82/cl_fsl/io_utils.py)
 + **WRN:** [[link]](https://github.com/facebookresearch/fewshotDatasetDesign/blob/master/archs/wide_resnet.py)
