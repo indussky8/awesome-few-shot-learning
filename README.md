@@ -28,9 +28,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/TAFSSL.png" width="500"/>
   
-+ **BD-CSPN**: Jinlu Liu, Liang Song, and Yongqiang Qin. "Prototype Rectification for Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460715.pdf). <b><font color="#FF3030">`<Meta-Dataset>`<b><font color="#FF3030">`<transductive>`
-  
-   <img src="readme/BD-CSPN.png" width="500"/>
+
    
 + **centroid alignment**: Arman Afrasiyabi, Jean-François Lalonde, and Christian Gagné. "Associative Alignment for Few-shot Image Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500018.pdf) [[code]](https://lvsn.github.io/associative-alignment/).
 
