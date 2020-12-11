@@ -114,7 +114,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
 + **Few-Shot Open-set**: Bo Liu, Hao Kang, Haoxiang Li, Gang Hua, and Nuno Vasconcelos. "Few-Shot Open-Set Recognition using Meta-Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf). <b><font color="#FF3030">`<Weakly Supervised>`
 
-  <img src="readme/Few-Shot Open-set.png" width="700"/>
+  <img src="readme/FSOS.png" width="700"/>
+  
++ **FEAT**: Han-Jia Ye, Hexiang Hu, De-Chuan Zhan, and Fei Sha. "Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Few-Shot_Learning_via_Embedding_Adaptation_With_Set-to-Set_Functions_CVPR_2020_paper.pdf) [[code]] (https://github.com/Sha-Lab/FEAT). <b><font color="#FF3030">`<Transformer>` <b><font color="#FF3030">`<inductive+transductive>`
+
+  <img src="readme/FEAT.png" width="700"/>
   
 #### AAAI 2020
 
