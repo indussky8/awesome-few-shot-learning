@@ -107,7 +107,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 + **DSN**: Christian Simon, Piotr Koniusz, Richard Nock, and Mehrtash Harandi. "Adaptive Subspaces for Few-Shot Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/chrysts/dsn_fewshot). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<supervised>`
 
-  <img src="readme/SIB.png" width="500"/>
+  <img src="readme/DSN.png" width="500"/>
   
 #### AAAI 2020
 
