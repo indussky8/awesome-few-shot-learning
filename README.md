@@ -100,6 +100,8 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/SIB.png" width="500"/>
   
+
+  
   
 #### CVPR 2020
 
@@ -107,7 +109,12 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 + **DSN**: Christian Simon, Piotr Koniusz, Richard Nock, and Mehrtash Harandi. "Adaptive Subspaces for Few-Shot Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/chrysts/dsn_fewshot). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<supervised>`
 
-  <img src="readme/DSN.png" width="500"/>
+  <img src="readme/DSN.png" width="700"/>
+  
+ 
++ **Few-Shot Open-set**: Bo Liu, Hao Kang, Haoxiang Li, Gang Hua, and Nuno Vasconcelos. "Few-Shot Open-Set Recognition using Meta-Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf). <b><font color="#FF3030">`<Weakly Supervised>`
+
+  <img src="readme/Few-Shot Open-set.png" width="700"/>
   
 #### AAAI 2020
 
