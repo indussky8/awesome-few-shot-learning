@@ -27,6 +27,10 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 + **STARTUP**: Cheng Perng Phoo, and Bharath Hariharan. "Self-training For Few-shot Transfer Across Extreme Task Differences." ICLR oral(2021). [[pdf]](https://openreview.net/pdf?id=O3Y56aqpChA).
 
   <img src="readme/STARTUP.png" width="500"/>
+  
+ + **CPM**: Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, and Richard Zemel. "Wandering within a world: Online contextualized few-shot learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=oZIvHV04XgC).
+ 
+  <img src="readme/CPM.png" width="500"/>
 
 #### ECCV 2020 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/jaekyeom/MABAS).
