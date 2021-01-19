@@ -30,7 +30,18 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
  + **CPM**: Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, and Richard Zemel. "Wandering within a world: Online contextualized few-shot learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=oZIvHV04XgC).
  
-  <img src="readme/CPM.png" width="500"/>
+  <img src="readme/CPM.png" width="600"/>
+  
+ + **THEORY**: Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, and Qi Lei. "Few-Shot Learning via Learning the Representation, Provably." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=pW2Q2xLwIMD).
+ 
+ + **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV). <b><font color="#FF3030">`<Meta-Dataset>`
+ 
+  <img src="readme/URT.png" width="600"/>
+  
+ + **COMET**: Kaidi Cao, Maria Brbic, and Jure Leskovec. "Concept Learners for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=eJIJF3-LoZO).
+ 
+  <img src="readme/COMET.png" width="600"/>
+  
 
 #### ECCV 2020 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/jaekyeom/MABAS).
