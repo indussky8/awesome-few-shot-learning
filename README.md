@@ -42,6 +42,14 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/COMET.png" width="600"/>
   
+ + **IEPT**: Manli Zhang, Jianhong Zhang, Zhiwu Lu, Tao Xiang, Mingyu Ding, and Songfang Huang. "IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=xzqLpqRzxLq).
+ 
+  <img src="readme/IEPT.png" width="600"/>
+ 
+ + **IDLVQ-C**: Kuilin Chen, and Chi-Guhn Lee. "Incremental few-shot learning via vector quantization in deep embedded space." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=3SV-ZePhnZM). <b><font color="#FF3030">`<LVQ>`
+  
+ + **SLE**: Bingchen Liu, Yizhe Zhu, Kunpeng Song, and Ahmed Elgammal. "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=1Fqg133qRaI).
+  
 
 #### ECCV 2020 
 + **MABAS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[code]](https://github.com/jaekyeom/MABAS).
