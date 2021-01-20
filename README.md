@@ -28,27 +28,41 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/STARTUP.png" width="500"/>
   
- + **CPM**: Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, and Richard Zemel. "Wandering within a world: Online contextualized few-shot learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=oZIvHV04XgC).
++ **CPM**: Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, and Richard Zemel. "Wandering within a world: Online contextualized few-shot learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=oZIvHV04XgC).
  
   <img src="readme/CPM.png" width="600"/>
   
- + **THEORY**: Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, and Qi Lei. "Few-Shot Learning via Learning the Representation, Provably." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=pW2Q2xLwIMD).
++ **THEORY**: Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, and Qi Lei. "Few-Shot Learning via Learning the Representation, Provably." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=pW2Q2xLwIMD).
  
- + **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV). <b><font color="#FF3030">`<Meta-Dataset>`
++ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV). <b><font color="#FF3030">`<Meta-Dataset>`
  
   <img src="readme/URT.png" width="600"/>
   
- + **COMET**: Kaidi Cao, Maria Brbic, and Jure Leskovec. "Concept Learners for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=eJIJF3-LoZO).
++ **COMET**: Kaidi Cao, Maria Brbic, and Jure Leskovec. "Concept Learners for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=eJIJF3-LoZO).
  
   <img src="readme/COMET.png" width="600"/>
   
- + **IEPT**: Manli Zhang, Jianhong Zhang, Zhiwu Lu, Tao Xiang, Mingyu Ding, and Songfang Huang. "IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=xzqLpqRzxLq).
++ **IEPT**: Manli Zhang, Jianhong Zhang, Zhiwu Lu, Tao Xiang, Mingyu Ding, and Songfang Huang. "IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=xzqLpqRzxLq).
  
   <img src="readme/IEPT.png" width="600"/>
  
- + **IDLVQ-C**: Kuilin Chen, and Chi-Guhn Lee. "Incremental few-shot learning via vector quantization in deep embedded space." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=3SV-ZePhnZM). <b><font color="#FF3030">`<LVQ>`
++ **IDLVQ-C**: Kuilin Chen, and Chi-Guhn Lee. "Incremental few-shot learning via vector quantization in deep embedded space." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=3SV-ZePhnZM). <b><font color="#FF3030">`<LVQ>`
   
- + **SLE**: Bingchen Liu, Yizhe Zhu, Kunpeng Song, and Ahmed Elgammal. "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=1Fqg133qRaI).
++ **SLE**: Bingchen Liu, Yizhe Zhu, Kunpeng Song, and Ahmed Elgammal. "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=1Fqg133qRaI).
+  
++ **repurposing MAML**: Namyeong Kwon, Hwidong Na, Gabriel Huang, and Simon Lacoste-Julien. "Repurposing Pretrained Models for Robust Out-of-domain Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=qkLMTphG5-h) [[code]](https://anonymous.4open.science/r/08ef52cf-456a-4e36-a408-04e1ad0bc5a9/).
+
+  <img src="readme/repurposing MAML.png" width="600"/>
+  
++ **MELR**: Nanyi Fei, Zhiwu Lu, Tao Xiang, and Songfang Huang. "MELR: Meta-Learning via Modeling Episode-Level Relationships for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=D3PcGLdMx0).
+
+  <img src="readme/MELR.png" width="600"/>
+  
++ **MELR**: Namyeong Kwon, Hwidong Na, Gabriel Huang, and Simon Lacoste-Julien. "MELR: Meta-Learning via Modeling Episode-Level Relationships for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=D3PcGLdMx0).
+
+  <img src="readme/MELR.png" width="600"/>
+  
+  
   
 
 #### ECCV 2020 
