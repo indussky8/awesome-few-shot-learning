@@ -75,7 +75,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/BOIL.png" width="600"/>
 
-+ **FBNet**: Zhipeng Bao, Yu-Xiong Wang, and Martial Hebert. "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=ESG-DMKQKsD).
++ **FBNet**: Zhipeng Bao, Yu-Xiong Wang, and Martial Hebert. "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=ESG-DMKQKsD). <b><font color="#FF3030">`<uncertainty quantification>`
  
   <img src="readme/FBNet.png" width="600"/>
   
