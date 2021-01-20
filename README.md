@@ -58,9 +58,18 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/MELR.png" width="600"/>
   
-+ **MELR**: Namyeong Kwon, Hwidong Na, Gabriel Huang, and Simon Lacoste-Julien. "MELR: Meta-Learning via Modeling Episode-Level Relationships for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=D3PcGLdMx0).
++ **MB(Supervised)**: Mihir Prabhudesai, Shamit Lal, Darshan Patil, Hsiao-Yu Tung, Adam W Harley, and Katerina Fragkiadaki. "Disentangling 3D Prototypical Networks for Few-Shot Concept Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=-Lr-u0b42he).
 
-  <img src="readme/MELR.png" width="600"/>
+  
++ **MetaNorm**: Yingjun Du, Xiantong Zhen, Ling Shao, and Cees G. M. Snoek. "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=9z_dNsC4B5t).<b><font color="#FF3030">`<Meta-Dataset>`
+ 
+  <img src="readme/MetaNorm.png" width="600"/>
+
++ **ConstellationNet**: Weijian Xu, yifan xu, Huaijin Wang, and Zhuowen Tu. "Constellation Nets for Few-Shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=vujTf_I8Kmc).
+ 
+  <img src="readme/ConstellationNet.png" width="600"/>
+
+
   
   
   
