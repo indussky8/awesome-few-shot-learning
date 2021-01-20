@@ -69,7 +69,15 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/ConstellationNet.png" width="600"/>
 
++ **OVE PG GP + Cosine**: Jake Snell, and Richard Zemel. "Bayesian Few-Shot Classification with One-vs-Each Pólya-Gamma Augmented Gaussian Processes." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=lgNx56yZh8a).
+  
++ **BOIL**: Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, and Se-Young Yun. "BOIL: Towards Representation Change for Few-shot Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=umIdUL8rMH).
+ 
+  <img src="readme/BOIL.png" width="600"/>
 
++ **FBNet**: Zhipeng Bao, Yu-Xiong Wang, and Martial Hebert. "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=ESG-DMKQKsD).
+ 
+  <img src="readme/FBNet.png" width="600"/>
   
   
   
