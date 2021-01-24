@@ -189,7 +189,6 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 #### ICML 2020 
 + **TaskNorm**: Bronskill, John and Gordon, Jonathan and Requeima, James and Nowozin, Sebastian and Turner, Richard. "TaskNorm: Rethinking Batch Normalization for Meta-Learning." ICML (2020). [[pdf]](http://proceedings.mlr.press/v119/bronskill20a/bronskill20a.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
 
-  <img src="readme/TaskNorm.png" width="500"/>
   
   
 #### NIPS 2019 
