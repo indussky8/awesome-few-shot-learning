@@ -79,6 +79,8 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/FBNet.png" width="600"/>
   
+ 
+
   
   
 
@@ -183,7 +185,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/FEAT.png" width="500"/>
   
-#### AAAI 2020
+  
+#### NIPS 2019 
++ **CNAPS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes." NIPS (2019). [[pdf]](https://arxiv.org/pdf/1906.07697.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
+
+  <img src="readme/CNAPS.png" width="500"/>
 
   
   
