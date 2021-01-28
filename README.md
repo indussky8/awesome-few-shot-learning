@@ -193,6 +193,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 #### ICML 2020 
 + **TaskNorm**: Bronskill, John and Gordon, Jonathan and Requeima, James and Nowozin, Sebastian and Turner, Richard. "TaskNorm: Rethinking Batch Normalization for Meta-Learning." ICML (2020). [[pdf]](http://proceedings.mlr.press/v119/bronskill20a/bronskill20a.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
 
+
+#### arxiv 2020 
++ **Meta-Baseline**: Yinbo Chen, Xiaolong Wang, Zhuang Liu, Huijuan Xu, and Trevor Darrell. "A New Meta-Baseline for Few-Shot Learning" arxiv (2020). [[pdf]](https://arxiv.org/pdf/2003.04390.pdf) [[code]](https://github.com/yinboc/few-shot-meta-baseline).<b><font color="#FF3030">`<Meta-Dataset>`
+
++ **HPO**: Saikia, Tonmoy and Brox, Thomas and Schmid, Cordelia. "Optimized Generic Feature Learning for Few-shot Classification across Domains." arxiv (2020). [[pdf]](https://arxiv.org/pdf/2001.07926.pdf).<b><font color="#FF3030">`<Meta-Dataset>`
   
   
 #### NIPS 2019 
