@@ -80,6 +80,8 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   <img src="readme/FBNet.png" width="600"/>
   
  
+#### NIPS 2020 
++ **DKT**: Patacchiola, Massimiliano and Turner, Jack and Crowley, Elliot J and O'Boyle, Michael and Storkey, Amos. "Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels." NIPS (2020). [[pdf]](https://proceedings.neurips.cc//paper/2020/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf) [[code]](https://github.com/BayesWatch/deep-kernel-transfer).
 
   
   
