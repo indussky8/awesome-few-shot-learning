@@ -19,14 +19,18 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 ### Papers
 
-#### Meta selection
+#### Meta + augmentation
 + **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/forum?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
 
   <img src="readme/KIP.png" width="600"/>
   
-+ **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
+Jialin Liu, Fei Chao, and Chih-Min Lin. "Task Level Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=Hkx9UaNKDH).
 
-  <img src="readme/KIP.png" width="600"/>
+Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, and Tom Goldstein. "Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=V2v7QcVkbhH).
+
+Xingjian Li, Haoyi Xiong, Haozhe An, Cheng-zhong Xu, and Dejing Dou. "XMixup: Efficient Transfer Learning with Auxiliary Samples by Cross-Domain Mixup." ICLR rej(2021). [[pdf]](https://openreview.net/forum?id=pD9x3TmLONE).
+
+
 
 
 #### ICLR 2021
