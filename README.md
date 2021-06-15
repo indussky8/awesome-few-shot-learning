@@ -30,6 +30,9 @@ Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, and Tom Goldstein. "Data Augm
 
 Xingjian Li, Haoyi Xiong, Haozhe An, Cheng-zhong Xu, and Dejing Dou. "XMixup: Efficient Transfer Learning with Auxiliary Samples by Cross-Domain Mixup." ICLR rej(2021). [[pdf]](https://openreview.net/forum?id=pD9x3TmLONE).
 
+Georgios Batzolis, Alberto Bernacchia, Da-shan Shiu, Michael Bromberg, and Alexandru Cioba. "Optimal allocation of data across training tasks in meta-learning." ICLR rej(2021). [[pdf]](https://openreview.net/forum?id=a4E6SL1rG3F).
+
+
 
 
 
