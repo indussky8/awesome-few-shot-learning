@@ -20,9 +20,14 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 ### Papers
 
 #### Meta selection
++ **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/forum?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
+
+  <img src="readme/KIP.png" width="600"/>
+  
 + **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
 
   <img src="readme/KIP.png" width="600"/>
+
 
 #### ICLR 2021
 + **DC**: Shuo Yang, Lu Liu, and Min Xu. "Free Lunch for Few-shot Learning: Distribution Calibration." ICLR oral(2021). [[pdf]](https://openreview.net/pdf?id=JWOiYxMG92s) [[code]](https://github.com/ShuoYang-1998/ICLR2021-Oral_Distribution_Calibration).
