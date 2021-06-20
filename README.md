@@ -226,6 +226,10 @@ Georgios Batzolis, Alberto Bernacchia, Da-shan Shiu, Michael Bromberg, and Alexa
 + **CNAPS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes." NIPS (2019). [[pdf]](https://arxiv.org/pdf/1906.07697.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
 
   <img src="readme/CNAPS.png" width="500"/>
+  
+ + **LST**: Li, Xinzhe and Sun, Qianru and Liu, Yaoyao and Zhou, Qin and Zheng, Shibao and Chua, Tat-Seng and Schiele, Bernt. "Learning to self-train for semi-supervised few-shot classification." NIPS (2019). [[pdf]](https://proceedings.neurips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) [[code]](https://github.com/xinzheli1217/learning-to-self-train).
+
+  <img src="readme/LST.png" width="500"/>
 
   
   
