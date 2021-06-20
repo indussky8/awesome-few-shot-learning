@@ -22,6 +22,9 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 #### CVPR 2019
 Li, Aoxue and Luo, Tiange and Lu, Zhiwu and Xiang, Tao and Wang, Liwei. "Large-scale few-shot learning: Knowledge transfer with class hierarchy." CVPR(2019). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf) [[code]](https://github.com/tiangeluo/fsl-hierarchy).
 
+  <img src="readme/KTCH.png" width="600"/>
+  
+  
 #### Meta + augmentation
 + **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/forum?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
 
