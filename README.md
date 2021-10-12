@@ -160,7 +160,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/SUR.png" width="500"/>
 
-+ **LR-distill**: Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, and Phillip Isola. "Rethinking Few-shot Image Classification: A Good Embedding is All You Need?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590256.pdf) [[code]](https://github.com/WangYueFt/rfs/). <font color="#FF3030">`<self-supervised>` <b><font color="#FF3030">`<Meta-Dataset>`
++ **LR-distill**: Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, and Phillip Isola. "Rethinking Few-shot Image Classification: A Good Embedding is All You Need?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590256.pdf) [[code]](https://github.com/WangYueFt/rfs/). <font color="#FF3030">`<self-supervised>` <font color="#FF3030">`<Meta-Dataset>`
 
   <img src="readme/LR-distill.png" width="500"/>
   
