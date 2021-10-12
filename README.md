@@ -38,8 +38,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 #### [2] Singal-domain based FSL
 
-#### LibFewShot
-wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. "LibFewShot: A Comprehensive Library for Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2109.04898.pdf) [[code]](https://github.com/RL-VIG/LibFewShot). `<an emperical survey>`
++ **LibFewShot**: wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. "LibFewShot: A Comprehensive Library for Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2109.04898.pdf) [[code]](https://github.com/RL-VIG/LibFewShot). `<an emperical survey>`
 
   <img src="readme/libfsl.png" width="600"/>
 
