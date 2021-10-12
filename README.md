@@ -24,13 +24,10 @@ enbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing 
 
   <img src="readme/libfsl.png" width="600"/>
 
-#### CVPR 2019
-Li, Aoxue and Luo, Tiange and Lu, Zhiwu and Xiang, Tao and Wang, Liwei. "Large-scale few-shot learning: Knowledge transfer with class hierarchy." CVPR(2019). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf) [[code]](https://github.com/tiangeluo/fsl-hierarchy).
 
-  <img src="readme/KTCH.png" width="600"/>
   
   
-#### Meta + augmentation
+#### Meta-Learning + data augmentation
 + **KIP**: Timothy Nguyen, Zhourong Chen, and Jaehoon Lee. "Dataset Meta-Learning from Kernel Ridge-Regression." ICLR(2021). [[pdf]](https://openreview.net/forum?id=l-PrrQrK0QR) [[code]](https://colab.research.google.com/github/google-research/google-research/blob/master/kip/KIP.ipynb).
 
   <img src="readme/KIP.png" width="600"/>
@@ -238,6 +235,11 @@ Georgios Batzolis, Alberto Bernacchia, Da-shan Shiu, Michael Bromberg, and Alexa
  + **LST**: Li, Xinzhe and Sun, Qianru and Liu, Yaoyao and Zhou, Qin and Zheng, Shibao and Chua, Tat-Seng and Schiele, Bernt. "Learning to self-train for semi-supervised few-shot classification." NIPS (2019). [[pdf]](https://proceedings.neurips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) [[code]](https://github.com/xinzheli1217/learning-to-self-train).
 
   <img src="readme/LST.png" width="500"/>
+  
+ #### CVPR 2019
+Li, Aoxue and Luo, Tiange and Lu, Zhiwu and Xiang, Tao and Wang, Liwei. "Large-scale few-shot learning: Knowledge transfer with class hierarchy." CVPR(2019). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf) [[code]](https://github.com/tiangeluo/fsl-hierarchy).
+
+  <img src="readme/KTCH.png" width="600"/>
 
   
   
