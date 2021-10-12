@@ -19,26 +19,26 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 ### Papers
 
-#### [1] Multi-domain based FSL [[Website]](https://github.com/google-research/meta-dataset)
+#### [1] Multi-domain based FSL [[Website]](https://github.com/google-research/meta-dataset) 
 <!--Please refer to the official website for this topic-->
 + **Meta-Dataset**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, and Hugo Larochelle. "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=rkgAGAVKPr) [[code]](https://github.com/google-research/meta-dataset/tree/master/meta_dataset/dataset_conversion/splits).
 
-+ **SimpleCNAPS**: Peyman Bateni, Raghav Goyal, Vaden Masrani, Frank Wood, Leonid Sigal. "Improved Few-Shot Visual Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/peymanbateni/simple-cnaps). <b><font color="#FF3030">`<Meta-Dataset>`
++ **SimpleCNAPS**: Peyman Bateni, Raghav Goyal, Vaden Masrani, Frank Wood, Leonid Sigal. "Improved Few-Shot Visual Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/peymanbateni/simple-cnaps). 
 
-+ **SUR**: Nikita Dvornik, Cordelia Schmid, and Julien Mairal. "Selecting Relevant Features from a Multi-domain Representation for Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550766.pdf) [[code]](https://github.com/dvornikita/SUR). <b><font color="#FF3030">`<Meta-Dataset>`
++ **SUR**: Nikita Dvornik, Cordelia Schmid, and Julien Mairal. "Selecting Relevant Features from a Multi-domain Representation for Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550766.pdf) [[code]](https://github.com/dvornikita/SUR). 
   
-+ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV)[[code]](https://github.com/liulu112601/URT). <b><font color="#FF3030">`<Meta-Dataset>`
++ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV)[[code]](https://github.com/liulu112601/URT). 
  
-+ **FLUTE**: Eleni Triantafillou, Hugo Larochelle, Richard Zemel, Vincent Dumoulin. "Learning a Universal Template for Few-shot Dataset Generalization." ICML(2021). [[pdf]](https://arxiv.org/pdf/2105.07029.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
++ **FLUTE**: Eleni Triantafillou, Hugo Larochelle, Richard Zemel, Vincent Dumoulin. "Learning a Universal Template for Few-shot Dataset Generalization." ICML(2021). [[pdf]](https://arxiv.org/pdf/2105.07029.pdf). 
 
-+ **URL**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Universal Representation Learning from Multiple Domains for Few-shot Classification." ICCV(2021). [[pdf]](https://arxiv.org/pdf/2103.13841.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
++ **URL**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Universal Representation Learning from Multiple Domains for Few-shot Classification." ICCV(2021). [[pdf]](https://arxiv.org/pdf/2103.13841.pdf). 
 
-+ **ITA**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Improving Task Adaptation for Cross-domain Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2107.00358.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
++ **ITA**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Improving Task Adaptation for Cross-domain Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2107.00358.pdf). 
 
 
 #### [2] Singal-domain based FSL
 
-#### arXiv 2021
+#### LibFewShot
 wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. "LibFewShot: A Comprehensive Library for Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2109.04898.pdf) [[code]](https://github.com/RL-VIG/LibFewShot). `<an emperical survey>`
 
   <img src="readme/libfsl.png" width="600"/>
@@ -49,13 +49,13 @@ wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing
 
   <img src="readme/KIP.png" width="600"/>
   
-Jialin Liu, Fei Chao, and Chih-Min Lin. "Task Level Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=Hkx9UaNKDH).
++ **ICLR withdraw**: Jialin Liu, Fei Chao, and Chih-Min Lin. "Task Level Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=Hkx9UaNKDH).
 
-Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, and Tom Goldstein. "Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=V2v7QcVkbhH).
++ **ICLR withdraw**: Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, and Tom Goldstein. "Data Augmentation for Meta-Learning." ICLR withdraw(2021). [[pdf]](https://openreview.net/forum?id=V2v7QcVkbhH).
 
-Xingjian Li, Haoyi Xiong, Haozhe An, Cheng-zhong Xu, and Dejing Dou. "XMixup: Efficient Transfer Learning with Auxiliary Samples by Cross-Domain Mixup." ICLR rej(2021). [[pdf]](https://openreview.net/forum?id=pD9x3TmLONE).
++ **ICLR reject**: Xingjian Li, Haoyi Xiong, Haozhe An, Cheng-zhong Xu, and Dejing Dou. "XMixup: Efficient Transfer Learning with Auxiliary Samples by Cross-Domain Mixup." ICLR reject(2021). [[pdf]](https://openreview.net/forum?id=pD9x3TmLONE).
 
-Georgios Batzolis, Alberto Bernacchia, Da-shan Shiu, Michael Bromberg, and Alexandru Cioba. "Optimal allocation of data across training tasks in meta-learning." ICLR rej(2021). [[pdf]](https://openreview.net/forum?id=a4E6SL1rG3F).
++ **ICLR reject**: Georgios Batzolis, Alberto Bernacchia, Da-shan Shiu, Michael Bromberg, and Alexandru Cioba. "Optimal allocation of data across training tasks in meta-learning." ICLR reject(2021). [[pdf]](https://openreview.net/forum?id=a4E6SL1rG3F).
 
 
 
