@@ -19,13 +19,14 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 ### Papers
 
-#### Multi-domain based FSL [[Website]](https://github.com/google-research/meta-dataset)
+#### [1] Multi-domain based FSL [[Website]](https://github.com/google-research/meta-dataset)
 Please refer to the official website for this topic.
 
 
 
 
-#### Singal-domain based FSL
+#### [2] Singal-domain based FSL
+
 #### arXiv 2021
 wenbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. "LibFewShot: A Comprehensive Library for Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2109.04898.pdf) [[code]](https://github.com/RL-VIG/LibFewShot). `<an emperical survey>`
 
