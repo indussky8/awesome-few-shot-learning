@@ -87,7 +87,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/IEPT.png" width="600"/>
  
-+ **IDLVQ-C**: Kuilin Chen, and Chi-Guhn Lee. "Incremental few-shot learning via vector quantization in deep embedded space." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=3SV-ZePhnZM). <b><font color="#FF3030">`<LVQ>`
++ **IDLVQ-C**: Kuilin Chen, and Chi-Guhn Lee. "Incremental few-shot learning via vector quantization in deep embedded space." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=3SV-ZePhnZM). <font color="#FF3030">`<LVQ>`
   
 + **SLE**: Bingchen Liu, Yizhe Zhu, Kunpeng Song, and Ahmed Elgammal. "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=1Fqg133qRaI).
   
