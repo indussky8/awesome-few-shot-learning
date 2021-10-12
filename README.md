@@ -19,6 +19,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
 ### Papers
 
+#### arXiv 2021
+enbin Li, Chuanqi Dong, Pinzhuo Tian, Tiexin Qin, Xuesong Yang, Ziyi Wang, Jing Huo, Yinghuan Shi, Lei Wang, Yang Gao, Jiebo Luo. "LibFewShot: A Comprehensive Library for Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2109.04898.pdf) [[code]](https://github.com/RL-VIG/LibFewShot). `<an emperical survey>`
+
+  <img src="readme/libfsl.png" width="600"/>
+
 #### CVPR 2019
 Li, Aoxue and Luo, Tiange and Lu, Zhiwu and Xiang, Tao and Wang, Liwei. "Large-scale few-shot learning: Knowledge transfer with class hierarchy." CVPR(2019). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Large-Scale_Few-Shot_Learning_Knowledge_Transfer_With_Class_Hierarchy_CVPR_2019_paper.pdf) [[code]](https://github.com/tiangeluo/fsl-hierarchy).
 
