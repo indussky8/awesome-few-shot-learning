@@ -176,7 +176,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/SEN.png" width="500"/>
   
-+ **EPNet**: Pau Rodríguez, Issam Laradji, Alexandre Drouin, and Alexandre Lacoste. "Embedding Propagation: Smoother Manifold for Few-Shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710120.pdf) [[code]](https://github.com/ElementAI/embedding-propagation). <font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
++ **EPNet**: Pau Rodríguez, Issam Laradji, Alexandre Drouin, and Alexandre Lacoste. "Embedding Propagation: Smoother Manifold for Few-Shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710120.pdf) [[code]](https://github.com/ElementAI/embedding-propagation). <font color="#FF3030">`<Semi-supervised>`<font color="#FF3030">`<transductive>`
 
   <img src="readme/EPNet.png" width="500"/>
   
