@@ -20,9 +20,20 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 ### Papers
 
 #### [1] Multi-domain based FSL [[Website]](https://github.com/google-research/meta-dataset)
-Please refer to the official website for this topic.
+<!--Please refer to the official website for this topic-->
++ **Meta-Dataset**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, and Hugo Larochelle. "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=rkgAGAVKPr) [[code]](https://github.com/google-research/meta-dataset/tree/master/meta_dataset/dataset_conversion/splits).
 
++ **SimpleCNAPS**: Peyman Bateni, Raghav Goyal, Vaden Masrani, Frank Wood, Leonid Sigal. "Improved Few-Shot Visual Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/peymanbateni/simple-cnaps). <b><font color="#FF3030">`<Meta-Dataset>`
 
++ **SUR**: Nikita Dvornik, Cordelia Schmid, and Julien Mairal. "Selecting Relevant Features from a Multi-domain Representation for Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550766.pdf) [[code]](https://github.com/dvornikita/SUR). <b><font color="#FF3030">`<Meta-Dataset>`
+  
++ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV)[[code]](https://github.com/liulu112601/URT). <b><font color="#FF3030">`<Meta-Dataset>`
+ 
++ **FLUTE**: Eleni Triantafillou, Hugo Larochelle, Richard Zemel, Vincent Dumoulin. "Learning a Universal Template for Few-shot Dataset Generalization." ICML(2021). [[pdf]](https://arxiv.org/pdf/2105.07029.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
+
++ **URL**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Universal Representation Learning from Multiple Domains for Few-shot Classification." ICCV(2021). [[pdf]](https://arxiv.org/pdf/2103.13841.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
+
++ **ITA**: Wei-Hong Li, Xialei Liu, Hakan Bilen. "Improving Task Adaptation for Cross-domain Few-shot Learning." arXiv(2021). [[pdf]](https://arxiv.org/pdf/2107.00358.pdf). <b><font color="#FF3030">`<Meta-Dataset>`
 
 
 #### [2] Singal-domain based FSL
