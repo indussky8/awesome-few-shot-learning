@@ -102,7 +102,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 + **MB(Supervised)**: Mihir Prabhudesai, Shamit Lal, Darshan Patil, Hsiao-Yu Tung, Adam W Harley, and Katerina Fragkiadaki. "Disentangling 3D Prototypical Networks for Few-Shot Concept Learning." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=-Lr-u0b42he).
 
   
-+ **MetaNorm**: Yingjun Du, Xiantong Zhen, Ling Shao, and Cees G. M. Snoek. "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=9z_dNsC4B5t).<b><font color="#FF3030">`<Meta-Dataset>`
++ **MetaNorm**: Yingjun Du, Xiantong Zhen, Ling Shao, and Cees G. M. Snoek. "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=9z_dNsC4B5t).<font color="#FF3030">`<Meta-Dataset>`
  
   <img src="readme/MetaNorm.png" width="600"/>
 
@@ -116,7 +116,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
  
   <img src="readme/BOIL.png" width="600"/>
 
-+ **FBNet**: Zhipeng Bao, Yu-Xiong Wang, and Martial Hebert. "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=ESG-DMKQKsD). <b><font color="#FF3030">`<uncertainty quantification>`
++ **FBNet**: Zhipeng Bao, Yu-Xiong Wang, and Martial Hebert. "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=ESG-DMKQKsD). <font color="#FF3030">`<uncertainty quantification>`
  
   <img src="readme/FBNet.png" width="600"/>
   
@@ -136,7 +136,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
    <img src="readme/centroid alignment.png" width="500"/>
    
-+ **TAFSSL**: Moshe Lichtenstein, Prasanna Sattigeri, Rogerio Feris, Raja Giryes, and Leonid Karlinsky. "TAFSSL: Task-Adaptive Feature Sub-Space Learning for few-shot classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520511.pdf). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
++ **TAFSSL**: Moshe Lichtenstein, Prasanna Sattigeri, Rogerio Feris, Raja Giryes, and Leonid Karlinsky. "TAFSSL: Task-Adaptive Feature Sub-Space Learning for few-shot classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520511.pdf). <font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
 
   <img src="readme/TAFSSL.png" width="500"/> 
   
@@ -144,11 +144,11 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
    <img src="readme/BD-CSPN.png" width="500"/>
   
-+ **SSL-FSL**: Jong-Chyi Su, Subhransu Maji, and Bharath Hariharan. "When Does Self-supervision Improve Few-shot Learning?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520630.pdf). <b><font color="#FF3030">`<self-supervised>`
++ **SSL-FSL**: Jong-Chyi Su, Subhransu Maji, and Bharath Hariharan. "When Does Self-supervision Improve Few-shot Learning?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520630.pdf). <font color="#FF3030">`<self-supervised>`
 
   <img src="readme/SSL-FSL.png" width="500"/>
   
-+ **IDA**: Qing Liu, Orchid Majumder, Alessandro Achille, Avinash Ravichandran, Rahul Bhotika, and Stefano Soatto. "Incremental Few-Shot Meta-Learning via Indirect Discriminant Alignment." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520664.pdf). <b><font color="#FF3030">`<Incremental>`
++ **IDA**: Qing Liu, Orchid Majumder, Alessandro Achille, Avinash Ravichandran, Rahul Bhotika, and Stefano Soatto. "Incremental Few-Shot Meta-Learning via Indirect Discriminant Alignment." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520664.pdf). <font color="#FF3030">`<Incremental>`
 
   <img src="readme/IDA.png" width="500"/>
   
@@ -156,19 +156,19 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/LS-FSL.png" width="500"/>
 
-+ **SUR**: Nikita Dvornik, Cordelia Schmid, and Julien Mairal. "Selecting Relevant Features from a Multi-domain Representation for Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550766.pdf) [[code]](https://github.com/dvornikita/SUR). <b><font color="#FF3030">`<Meta-Dataset>`
++ **SUR**: Nikita Dvornik, Cordelia Schmid, and Julien Mairal. "Selecting Relevant Features from a Multi-domain Representation for Few-shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550766.pdf) [[code]](https://github.com/dvornikita/SUR). <font color="#FF3030">`<Meta-Dataset>`
 
   <img src="readme/SUR.png" width="500"/>
 
-+ **LR-distill**: Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, and Phillip Isola. "Rethinking Few-shot Image Classification: A Good Embedding is All You Need?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590256.pdf) [[code]](https://github.com/WangYueFt/rfs/). <b><font color="#FF3030">`<self-supervised>` <b><font color="#FF3030">`<Meta-Dataset>`
++ **LR-distill**: Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, and Phillip Isola. "Rethinking Few-shot Image Classification: A Good Embedding is All You Need?." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590256.pdf) [[code]](https://github.com/WangYueFt/rfs/). <font color="#FF3030">`<self-supervised>` <b><font color="#FF3030">`<Meta-Dataset>`
 
   <img src="readme/LR-distill.png" width="500"/>
   
-+ **E<sup>3</sup>BM**: Yaoyao Liu, Bernt Schiele, and Qianru Sun. "An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf) [[code]](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm). <b><font color="#FF3030">`<transductive and inductive>`
++ **E<sup>3</sup>BM**: Yaoyao Liu, Bernt Schiele, and Qianru Sun. "An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf) [[code]](https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm). <font color="#FF3030">`<transductive and inductive>`
 
   <img src="readme/E3BM.png" width="500"/>
   
-+ **Data Design**: Othman Sbai, Camille Couprie, and Mathieu Aubry. "Impact of base dataset design on few-shot image classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610579.pdf) [[code]](http://imagine.enpc.fr/~sbaio/publications/fewshot_dataset_design/index.html). <b><font color="#FF3030">`<base training set selection>`
++ **Data Design**: Othman Sbai, Camille Couprie, and Mathieu Aubry. "Impact of base dataset design on few-shot image classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610579.pdf) [[code]](http://imagine.enpc.fr/~sbaio/publications/fewshot_dataset_design/index.html). <font color="#FF3030">`<base training set selection>`
 
   <img src="readme/Data Design.png" width="500"/>
   
@@ -176,15 +176,15 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 
   <img src="readme/SEN.png" width="500"/>
   
-+ **EPNet**: Pau Rodríguez, Issam Laradji, Alexandre Drouin, and Alexandre Lacoste. "Embedding Propagation: Smoother Manifold for Few-Shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710120.pdf) [[code]](https://github.com/ElementAI/embedding-propagation). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
++ **EPNet**: Pau Rodríguez, Issam Laradji, Alexandre Drouin, and Alexandre Lacoste. "Embedding Propagation: Smoother Manifold for Few-Shot Classification." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710120.pdf) [[code]](https://github.com/ElementAI/embedding-propagation). <font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<transductive>`
 
   <img src="readme/EPNet.png" width="500"/>
   
-+ **BSCD-FSL**: Yunhui Guo, Noel C. Codella, Leonid Karlinsky, and James V. Codella, John R. Smith, Kate Saenko, Tajana Rosing, Rogerio Feris. "A Broader Study of Cross-Domain Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720120.pdf) [[code]](https://github.com/IBM/cdfsl-benchmark). <b><font color="#FF3030">`<transductive and inductive>`
++ **BSCD-FSL**: Yunhui Guo, Noel C. Codella, Leonid Karlinsky, and James V. Codella, John R. Smith, Kate Saenko, Tajana Rosing, Rogerio Feris. "A Broader Study of Cross-Domain Few-Shot Learning." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720120.pdf) [[code]](https://github.com/IBM/cdfsl-benchmark). <font color="#FF3030">`<transductive and inductive>`
 
   <img src="readme/BSCD-FSL.png" width="500"/>
   
-+ **DeepCaps-FSL**: Fangyu Wu, Jeremy S.Smith, Wenjin Lu, Chaoyi Pang, and Bailing Zhang. "Attentive Prototype Few-shot Learning with Capsule Network-based Embedding." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730239.pdf). <b><font color="#FF3030">`<transductive>`
++ **DeepCaps-FSL**: Fangyu Wu, Jeremy S.Smith, Wenjin Lu, Chaoyi Pang, and Bailing Zhang. "Attentive Prototype Few-shot Learning with Capsule Network-based Embedding." ECCV (2020). [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730239.pdf). <font color="#FF3030">`<transductive>`
 
   <img src="readme/DeepCaps-FSL.png" width="500"/>
   
@@ -196,7 +196,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
 #### ICLR 2020
 + **ProtoNet-EST**: Tianshi Cao, Marc T Law, and Sanja Fidler. "A Theoretical Analysis of the Number of Shots in Few-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/attachment?id=HkgB2TNYPS&name=original_pdf).
 
-+ **Transductive ﬁne-tuning**: Guneet Singh Dhillon, Pratik Chaudhari, Avinash Ravichandran, and Stefano Soatto. "A Baseline for Few-Shot Image Classification." ICLR (2020). [[pdf]](https://openreview.net/attachment?id=rylXBkrYDS&name=original_pdf). <b><font color="#FF3030">`<transductive>`
++ **Transductive ﬁne-tuning**: Guneet Singh Dhillon, Pratik Chaudhari, Avinash Ravichandran, and Stefano Soatto. "A Baseline for Few-Shot Image Classification." ICLR (2020). [[pdf]](https://openreview.net/attachment?id=rylXBkrYDS&name=original_pdf). <font color="#FF3030">`<transductive>`
 
 + **LFT-FSL**: Hung-Yu Tseng, Hsin-Ying Lee, Jia-Bin Huang, and Ming-Hsuan Yang. "Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=SJl5Np4tPr) [[code]](https://github.com/hytseng0509/CrossDomainFewShot).
 
@@ -204,7 +204,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
 + **Meta-Dataset**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, and Hugo Larochelle. "Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=rkgAGAVKPr) [[code]](https://github.com/google-research/meta-dataset/tree/master/meta_dataset/dataset_conversion/splits).
 
-+ **SIB**: Shell Xu Hu, Pablo Garcia Moreno, Yang Xiao, Xi Shen, Guillaume Obozinski, Neil Lawrence, and Andreas Damianou. "Empirical Bayes Transductive Meta-Learning with Synthetic Gradients." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hkg-xgrYvH) [[code]](https://github.com/amzn/xfer). <b><font color="#FF3030">`<transductive>`
++ **SIB**: Shell Xu Hu, Pablo Garcia Moreno, Yang Xiao, Xi Shen, Guillaume Obozinski, Neil Lawrence, and Andreas Damianou. "Empirical Bayes Transductive Meta-Learning with Synthetic Gradients." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hkg-xgrYvH) [[code]](https://github.com/amzn/xfer). <font color="#FF3030">`<transductive>`
 
   <img src="readme/SIB.png" width="500"/>
   
@@ -213,38 +213,38 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
 #### CVPR 2020
 
-+ **Selection-FSL**: Linjun Zhou, Peng Cui, Xu Jia, Shiqiang Yang, and Qi Tian. "Learning to Select Base Classes for Few-Shot Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf). <b><font color="#FF3030">`<selection>`
++ **Selection-FSL**: Linjun Zhou, Peng Cui, Xu Jia, Shiqiang Yang, and Qi Tian. "Learning to Select Base Classes for Few-Shot Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf). <font color="#FF3030">`<selection>`
 
-+ **DSN**: Christian Simon, Piotr Koniusz, Richard Nock, and Mehrtash Harandi. "Adaptive Subspaces for Few-Shot Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/chrysts/dsn_fewshot). <b><font color="#FF3030">`<Semi-supervised>`<b><font color="#FF3030">`<supervised>`
++ **DSN**: Christian Simon, Piotr Koniusz, Richard Nock, and Mehrtash Harandi. "Adaptive Subspaces for Few-Shot Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_to_Select_Base_Classes_for_Few-Shot_Classification_CVPR_2020_paper.pdf) [[code]](https://github.com/chrysts/dsn_fewshot). <b><font color="#FF3030">`<Semi-supervised>`<font color="#FF3030">`<supervised>`
 
   <img src="readme/DSN.png" width="700"/>
   
  
-+ **Few-Shot Open-set**: Bo Liu, Hao Kang, Haoxiang Li, Gang Hua, and Nuno Vasconcelos. "Few-Shot Open-Set Recognition using Meta-Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf). <b><font color="#FF3030">`<Weakly Supervised>`
++ **Few-Shot Open-set**: Bo Liu, Hao Kang, Haoxiang Li, Gang Hua, and Nuno Vasconcelos. "Few-Shot Open-Set Recognition using Meta-Learning." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf). <font color="#FF3030">`<Weakly Supervised>`
 
   <img src="readme/FSOS.png" width="700"/>
   
-+ **FEAT**: Han-Jia Ye, Hexiang Hu, De-Chuan Zhan, and Fei Sha. "Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Few-Shot_Learning_via_Embedding_Adaptation_With_Set-to-Set_Functions_CVPR_2020_paper.pdf) [[code]](https://github.com/Sha-Lab/FEAT). <b><font color="#FF3030">`<Transformer>` <b><font color="#FF3030">`<inductive+transductive>`
++ **FEAT**: Han-Jia Ye, Hexiang Hu, De-Chuan Zhan, and Fei Sha. "Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Few-Shot_Learning_via_Embedding_Adaptation_With_Set-to-Set_Functions_CVPR_2020_paper.pdf) [[code]](https://github.com/Sha-Lab/FEAT). <font color="#FF3030">`<Transformer>` <font color="#FF3030">`<inductive+transductive>`
 
   <img src="readme/FEAT.png" width="500"/>
  
-+ **Simple CNAPS**: Bateni, Peyman and Goyal, Raghav and Masrani, Vaden and Wood, Frank and Sigal, Leonid. "Improved Few-Shot Visual Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf) <b><font color="#FF3030">`<Meta-Dataset>`
++ **Simple CNAPS**: Bateni, Peyman and Goyal, Raghav and Masrani, Vaden and Wood, Frank and Sigal, Leonid. "Improved Few-Shot Visual Classification." CVPR (2020). [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf) <font color="#FF3030">`<Meta-Dataset>`
 
   
   
 
 #### ICML 2020 
-+ **TaskNorm**: Bronskill, John and Gordon, Jonathan and Requeima, James and Nowozin, Sebastian and Turner, Richard. "TaskNorm: Rethinking Batch Normalization for Meta-Learning." ICML (2020). [[pdf]](http://proceedings.mlr.press/v119/bronskill20a/bronskill20a.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
++ **TaskNorm**: Bronskill, John and Gordon, Jonathan and Requeima, James and Nowozin, Sebastian and Turner, Richard. "TaskNorm: Rethinking Batch Normalization for Meta-Learning." ICML (2020). [[pdf]](http://proceedings.mlr.press/v119/bronskill20a/bronskill20a.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<font color="#FF3030">`<Meta-Dataset>`
 
 
 #### arxiv 2020 
-+ **Meta-Baseline**: Yinbo Chen, Xiaolong Wang, Zhuang Liu, Huijuan Xu, and Trevor Darrell. "A New Meta-Baseline for Few-Shot Learning" arxiv (2020). [[pdf]](https://arxiv.org/pdf/2003.04390.pdf) [[code]](https://github.com/yinboc/few-shot-meta-baseline).<b><font color="#FF3030">`<Meta-Dataset>`
++ **Meta-Baseline**: Yinbo Chen, Xiaolong Wang, Zhuang Liu, Huijuan Xu, and Trevor Darrell. "A New Meta-Baseline for Few-Shot Learning" arxiv (2020). [[pdf]](https://arxiv.org/pdf/2003.04390.pdf) [[code]](https://github.com/yinboc/few-shot-meta-baseline).<font color="#FF3030">`<Meta-Dataset>`
 
-+ **HPO**: Saikia, Tonmoy and Brox, Thomas and Schmid, Cordelia. "Optimized Generic Feature Learning for Few-shot Classification across Domains." arxiv (2020). [[pdf]](https://arxiv.org/pdf/2001.07926.pdf).<b><font color="#FF3030">`<Meta-Dataset>`
++ **HPO**: Saikia, Tonmoy and Brox, Thomas and Schmid, Cordelia. "Optimized Generic Feature Learning for Few-shot Classification across Domains." arxiv (2020). [[pdf]](https://arxiv.org/pdf/2001.07926.pdf).<font color="#FF3030">`<Meta-Dataset>`
   
   
 #### NIPS 2019 
-+ **CNAPS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes." NIPS (2019). [[pdf]](https://arxiv.org/pdf/1906.07697.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<b><font color="#FF3030">`<Meta-Dataset>`
++ **CNAPS**: Jaekyeom Kim, Hyoungseok Kim, and Gunhee Kim. "Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes." NIPS (2019). [[pdf]](https://arxiv.org/pdf/1906.07697.pdf) [[code]](https://github.com/cambridge-mlg/cnaps).<font color="#FF3030">`<Meta-Dataset>`
 
   <img src="readme/CNAPS.png" width="500"/>
   
