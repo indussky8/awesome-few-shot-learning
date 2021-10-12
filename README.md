@@ -75,7 +75,7 @@ Contributions are welcome. If you have suggestions for new sections or valuable 
   
 + **THEORY**: Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, and Qi Lei. "Few-Shot Learning via Learning the Representation, Provably." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=pW2Q2xLwIMD).
  
-+ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV). <b><font color="#FF3030">`<Meta-Dataset>`
++ **URT**: Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, and Hugo Larochelle. "A Universal Representation Transformer Layer for Few-Shot Image Classification." ICLR(2021). [[pdf]](https://openreview.net/pdf?id=04cII6MumYV). <!--<b><font color="#FF3030">`<Meta-Dataset>`-->
  
   <img src="readme/URT.png" width="600"/>
   
